@@ -10,6 +10,6 @@ public class SpringbootDemoApplication {
 		SpringApplication.run(SpringbootDemoApplication.class, args);
 	}
 	public void test() {
-		System.out.println("hello");
+		System.out.println("branch");
 	}
 }
