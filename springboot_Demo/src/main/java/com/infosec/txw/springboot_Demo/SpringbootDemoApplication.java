@@ -12,4 +12,7 @@ public class SpringbootDemoApplication {
 	public void test() {
 		System.out.println("branch");
 	}
+	public void test2() {
+		System.out.println("hello");
+	}
 }
