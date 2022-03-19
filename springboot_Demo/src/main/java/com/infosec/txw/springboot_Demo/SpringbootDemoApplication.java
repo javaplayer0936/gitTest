@@ -14,5 +14,7 @@ public class SpringbootDemoApplication {
 	}
 	public void test2() {
 		System.out.println("hello");
+		System.out.println("hi");
+		System.out.println("haha");
 	}
 }
